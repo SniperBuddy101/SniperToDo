@@ -2,7 +2,7 @@
 
 SniperToDo
 
-![SniperToDo screenshot](https://github.com/SniperBuddy101/SniperToDo/blob/master/screens/SniperToDo.png)
+![SniperToDo screenshot](https://github.com/SniperBuddy101/SniperToDo/blob/master/screens/SniperToDo-240.png)
 
 ## About the App
 
